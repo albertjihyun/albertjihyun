@@ -1,7 +1,7 @@
-Name : Jihyun You
-Email : albertjihyun0207@naver.com / dips2000@korea.ac.kr
-University : Korea University
-Major : Computer Science
+Name : Jihyun You \n
+Email : albertjihyun0207@naver.com / dips2000@korea.ac.kr \n
+University : Korea University \n
+Major : Computer Science \n
 
 Feel free to email me! 
 
